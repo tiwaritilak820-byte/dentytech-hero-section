@@ -1,6 +1,7 @@
 # Dentytech Landing Page
 
 A sleek, stylish frontend landing page concept designed for **Dentytech**, highlighting layered image styling and minimal interface components.
+![Website Preview](./screenshot (2).png)
 
 ## ✨ Features
 
