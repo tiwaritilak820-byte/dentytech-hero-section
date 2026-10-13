@@ -2,9 +2,7 @@
 
 A sleek, stylish frontend landing page concept designed for **Dentytech**, highlighting layered image styling and minimal interface components.
 
-## 🔗 Live Demo
-
-- Live URL:[url](https://dentytech-hero-section.vercel.app/)
+## 🔗 Live Demo : ![live](https://dentytech-hero-section.vercel.app/)
 
 ## 📸 Preview
 
