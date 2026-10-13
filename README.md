@@ -1,7 +1,16 @@
 # Dentytech Landing Page
 
 A sleek, stylish frontend landing page concept designed for **Dentytech**, highlighting layered image styling and minimal interface components.
-![Website Preview](./screenshot (2).png)
+
+## 🔗 Live Demo
+
+- Live URL:[url](https://dentytech-hero-section.vercel.app/)
+
+## 📸 Preview
+
+![Website Preview](./screenshot.png)
+
+
 
 ## ✨ Features
 
